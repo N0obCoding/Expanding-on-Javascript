@@ -5,7 +5,7 @@
 </p>
 <p align="center">Community Built Web Development Courses</p>
 
-# **Module 2:** Expanding on Javascript
+# **Module 3:** Expanding on Javascript
 TODO
 
 ### Pre-requisites
